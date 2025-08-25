@@ -4,7 +4,7 @@
 <p><b>Aprender, construir e evoluir</b> é o lema dessa nova jornada!</p>
 
 <p><b>📚 O Que Estou Estudando:</b><br>
-- Linguagens: SQL, JavaScript.<br>
+- Linguagens: Python, JavaScript.<br>
 - Banco de Dados: SQL Server.<br>
 - Ferramentas: Git, GitHub.</p>
 
